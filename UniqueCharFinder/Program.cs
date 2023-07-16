@@ -14,7 +14,9 @@
                             But do not program in COBOL if you can avoid it.
                             -- Geoffrey James, ""The Tao of Programming""";
 
-			string inputText2 = @"C makes it easy for you to shoot yourself in the foot. C++ makes that harder, but when you do, it blows away your whole leg. (с) Bjarne Stroustrup";
+			string inputText2 = @"C makes it easy for you to shoot yourself in the foot. 
+							C++ makes that harder, but when you do, it blows away your whole leg.
+							(с) Bjarne Stroustrup";
 
 			char result = FindFirstUniqueCharacter(inputText2);
 
